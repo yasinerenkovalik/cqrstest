@@ -1,0 +1,15 @@
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/bin/Debug/net8.0/Applicatino.deps.json
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/bin/Debug/net8.0/Applicatino.dll
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/bin/Debug/net8.0/Applicatino.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/bin/Debug/net8.0/Domain.dll
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/bin/Debug/net8.0/Domain.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.csproj.AssemblyReference.cache
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.AssemblyInfoInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.AssemblyInfo.cs
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.csproj.CoreCompileInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicat.8AA5CEDD.Up2Date
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.dll
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/refint/Applicatino.dll
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/ref/Applicatino.dll
