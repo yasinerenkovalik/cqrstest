@@ -1,10 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Reflection;
-using Microsoft.Extensions.DependencyInjection;
-using MediatR;
 
-namespace Applicatino;
+using System.Reflection;
+using Applicatino.Mapping;
+using Microsoft.Extensions.DependencyInjection;
+
+
+namespace Applicatino{
 
 public static class ServiceRegistration
 {
@@ -12,10 +12,12 @@ public static class ServiceRegistration
 {
     
     var assembly = Assembly.GetExecutingAssembly(); // Eğer başka assembly'ler varsa, onları da eklemeyi unutmayın
-    serviceCollection.AddAutoMapper(assembly);
-    serviceCollection.AddMediatR(assembly);
+  serviceCollection.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(ServiceRegistration).Assembly));
+   serviceCollection.AddAutoMapper(typeof(GenerealMapping));
+  
 }
 
 
 
 } 
+}

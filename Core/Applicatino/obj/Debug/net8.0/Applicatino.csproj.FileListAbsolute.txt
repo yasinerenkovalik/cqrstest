@@ -8,6 +8,7 @@
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.AssemblyInfoInputs.cache
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.AssemblyInfo.cs
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.csproj.CoreCompileInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.sourcelink.json
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicat.8AA5CEDD.Up2Date
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/Applicatino.dll
 /Users/yasin/Desktop/projeler/yasinapi/Core/Applicatino/obj/Debug/net8.0/refint/Applicatino.dll

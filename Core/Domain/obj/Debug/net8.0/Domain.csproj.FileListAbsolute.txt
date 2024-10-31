@@ -6,6 +6,7 @@
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.sourcelink.json
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.dll
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/refint/Domain.dll
 /Users/yasin/Desktop/projeler/yasinapi/Core/Domain/obj/Debug/net8.0/Domain.pdb

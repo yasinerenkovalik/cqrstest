@@ -1,0 +1,12 @@
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Infrastructure/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

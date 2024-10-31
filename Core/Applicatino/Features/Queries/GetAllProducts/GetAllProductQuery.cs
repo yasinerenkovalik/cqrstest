@@ -6,12 +6,13 @@ using AutoMapper;
 using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Collections.Generic;
+//using System.Collections.Generic;
 
 namespace Applicatino.Features.Queries.GetAllProducts
 {
     
-    public class GetAllProductQuery : IRequest<ServiceResponse<List<ProductViewDto>>>
+  //  public class GetAllProductQuery : IRequest<ServiceResponse<List<ProductViewDto>>>
+   public class GetAllProductQuery : IRequest<ServiceResponse<List<ProductViewDto>>>
     {
     }
 

@@ -5,6 +5,9 @@
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/WebAppi.runtimeconfig.json
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/WebAppi.dll
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/WebAppi.pdb
+/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/AutoMapper.dll
+/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/MediatR.dll
+/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/MediatR.Contracts.dll
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -28,6 +31,7 @@
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.csproj.CoreCompileInputs.cache
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.MvcApplicationPartsAssemblyInfo.cs
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.MvcApplicationPartsAssemblyInfo.cache
+/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.sourcelink.json
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/staticwebassets/msbuild.WebAppi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -42,8 +46,3 @@
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.pdb
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/WebAppi.genruntimeconfig.cache
 /Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/obj/Debug/net8.0/ref/WebAppi.dll
-/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/AutoMapper.dll
-/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/MediatR.dll
-/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/MediatR.Contracts.dll
-/Users/yasin/Desktop/projeler/yasinapi/Presentation/WebAppi/bin/Debug/net8.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

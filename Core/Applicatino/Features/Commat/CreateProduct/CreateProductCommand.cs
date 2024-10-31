@@ -4,13 +4,14 @@ using Applicatino.Wrapper;
 using AutoMapper;
 using MediatR;
 
-namespace Applicatino.Features.Commat.CreateProduct;
-
-public class CreateProductCommand:IRequest<ServiceResponse<int>>
+namespace Applicatino.Features.Commat.CreateProduct
+{
+    public class CreateProductCommand:IRequest<ServiceResponse<int>>
 {
     public string Name { get; set; }
-    public decimal Value { get; set; }
+   // public decimal Value { get; set; }
     public int Stock { get; set; }
+}
 
     public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand, ServiceResponse<int>>
     {
@@ -29,4 +30,7 @@ public class CreateProductCommand:IRequest<ServiceResponse<int>>
             return new ServiceResponse<int>(product.Id);
         }
     }
-}
+    }
+
+
+

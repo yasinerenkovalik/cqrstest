@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Applicatino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2cedfda4f0050f916da4b8b12618b82e71e269")]
 [assembly: System.Reflection.AssemblyProductAttribute("Applicatino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Applicatino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
