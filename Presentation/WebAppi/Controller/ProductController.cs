@@ -1,6 +1,7 @@
 
 using Applicatino.Features.Commat.CreateProduct;
 using Applicatino.Features.Queries.GetAllProducts;
+using Applicatino.Features.Queries.GetProductById;
 using Applicatino.Interfaces.Repository;
 using Domain;
 using MediatR;
@@ -21,6 +22,11 @@ namespace WebAppi.Controller
         [HttpGet]
         public async Task<IActionResult> Get(){
             var query=new GetAllProductQuery();
+            return Ok(await _mediator.Send(query));
+        }
+          [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id){
+            var query=new GetProductByIdQuery(){Id=id};
             return Ok(await _mediator.Send(query));
         }
         [HttpPost]
